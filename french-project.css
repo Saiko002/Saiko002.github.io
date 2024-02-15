@@ -1,0 +1,135 @@
+body {
+  overflow-x: hidden;
+  background-color:blanchedalmond;
+}
+
+header {
+  margin: 30px auto;
+  border: dotted 3px darkcyan;
+  text-align: center;
+  background-image: url("header-background-image.jpg");
+  width: 500px;
+}
+
+section{
+  background-color:ghostwhite
+}
+
+.the-alert-signal{
+  border: solid 4px darkblue;
+  margin: 20px auto;
+}
+
+.the-alert-signal h2{
+  font-size: 40px;
+  font-weight: bold;
+  font-family:Georgia;
+  color: aquamarine;
+}
+
+.the-alert-signal p{
+  font-size: 20px;
+  font-weight: 50;
+  font-family:'Courier New', Courier, monospace;
+  color:cornflowerblue;
+}
+
+.the-alert-signal h6{
+  font-size: 10px;
+  font-weight: 20;
+  font-family: Arial, Helvetica, sans-serif;
+  color:blueviolet;
+}
+
+.at-the-mondial-level{
+  border: solid 4px darkred;
+  margin: 20px auto;
+}
+
+.at-the-mondial-level h2{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Georgia;
+  color: Aquamarine;
+}
+
+.at-the-mondial-level p{
+  font-size: 20px;
+  font-weight: 50;
+  font-family:'Courier New', Courier, monospace;
+  color:cornflowerblue;
+}
+
+.at-the-mondial-level h6{
+  font-size: 10px;
+  font-weight: 20;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.at-the-mondial-level a:link{
+  color: blue;
+}
+
+.at-the-mondial-level a:visited{
+  color:blueviolet;
+}
+
+.consequences-and-ways-to-prevent{
+  border: solid 4px darkkhaki;
+  margin: 20px auto;
+}
+
+ .consequences-and-ways-to-prevent h2{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Georgia;
+  color: Aquamarine;
+ }
+
+ .consequences-and-ways-to-prevent p{
+  font-size: 20px;
+  font-weight: 50;
+  font-family:'Courier New', Courier, monospace;
+  color:cornflowerblue;
+}
+
+.consequences-and-ways-to-prevent h6{
+  font-size: 10px;
+  font-weight: 20;
+  font-family: Arial, Helvetica, sans-serif;
+  color:blueviolet;
+}
+
+footer h2{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Georgia;
+  color:cadetblue;
+}
+
+.nizar-baraka{
+  display: inline
+}
+
+.nizar-baraka h3{
+  font-size: 15px;
+  font-weight: bold;
+  font-family:Verdana, Tahoma, sans-serif;
+}
+
+.sécheresse {
+  display:inline
+}
+
+.sécheresse h3{
+  font-size: 15px;
+  font-weight: bold;
+  font-family:Verdana, Tahoma, sans-serif;
+}
+
+.quelques-vidéos h3{
+  font-size: 15px;
+  font-weight: bold;
+  font-family:Verdana, Tahoma, sans-serif;
+}
+ 
